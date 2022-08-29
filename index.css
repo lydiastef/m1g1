@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana;
+
+
+}
+
+header, footer {
+    background-color: #216208;
+    height: 12vh;
+    color:white;
+    font-size:medium;
+    margin-top: 0px;
+}
+
+header h2 {
+    margin-top: 0px;
+    left: 50%;
+}
+
+main {
+    background-color:#a9d697;
+}
+
+main, table {
+    background-color: white;
+}
